@@ -4,7 +4,7 @@ title: Landing
 ---
 
 # Welcome to davo.lt
-*Enjoy your stay*
+*Enjoy your stay?*
 
 <h2>Recent Articles</h2>
 <ul>
